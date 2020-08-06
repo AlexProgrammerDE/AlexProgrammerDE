@@ -20,3 +20,5 @@
 <p align="center">
 <a href="https://dev.to/alexprogrammerde" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alexprogrammerde" height="30" width="30" /></a>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=songraper&cover_image=true)](https://spotify-github-profile.vercel.app/api/view?uid=songraper&redirect=true)
