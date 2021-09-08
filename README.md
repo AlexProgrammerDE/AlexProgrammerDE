@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexprogrammerde" alt="alexprogrammerde" /> </p>
 
-- 🔭 I’m currently working on [EggWarsReloaded](https://github.com/AlexProgrammerDE/EggWarsReloaded)
+- 🔭 I’m currently working on [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX)
 
 - 🌱 I’m currently learning **TypeScript/JavaScript**
 
