@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX)
 
-- 🌱 I’m currently learning **TypeScript/JavaScript**
+- 🌱 I’m currently learning **GoLang**
 
 - 💧 I’m a spigotmc dev [https://www.spigotmc.org/members/pistonmaster.847485/](https://www.spigotmc.org/members/pistonmaster.847485/)
 
