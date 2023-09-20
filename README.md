@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **GoLang**
 
-- 💧 I’m a spigotmc dev [https://www.spigotmc.org/members/pistonmaster.847485/](https://www.spigotmc.org/members/pistonmaster.847485/)
+- 💧 I’m a [SpigotMC dev](https://www.spigotmc.org/members/pistonmaster.847485/)
 
-- 📫 How to reach me [Discord](https://discord.gg/CDrcxzH)
+- 📫 You can reach me on [Discord](https://discord.gg/CDrcxzH)
 
-- ⚡ Fun fact **Loving minecraft 💖**
+- ⚡ Fun fact **I love minecraft 💖**
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexprogrammerde&layout=compact&theme=dark"></p>
                          
