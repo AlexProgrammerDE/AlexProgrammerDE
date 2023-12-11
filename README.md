@@ -9,7 +9,7 @@
 
 - 💧 I’m a [SpigotMC dev](https://www.spigotmc.org/members/pistonmaster.847485/)
 
-- 📫 You can reach me on [Discord](https://discord.gg/bkDyrFwqq8)
+- 📫 You can reach me on [Discord](https://discord.gg/bkDyrFwqq8) `@pistonmaster`
 
 - ⚡ Fun fact **I love minecraft 💖**
 
