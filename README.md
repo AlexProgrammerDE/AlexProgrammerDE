@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm AlexProgrammerDE</h1>
-<h3 align="center">Coding as a hobby and creating cool stuff.</h3>
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">Freelance Student and Open-Source Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexprogrammerde" alt="alexprogrammerde" /> </p>
 
-- 🔭 I’m currently working on [SkinsRestorer](https://github.com/SkinsRestorer/SkinsRestorerX)
+- 🔭 I’m currently working on [SoulFire](https://soulfiremc.com)
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **Rust**
 
-- 💧 I’m a [SpigotMC dev](https://www.spigotmc.org/members/pistonmaster.847485/)
+- 🦋 I’m now on [Bluesky](https://bsky.app/profile/pistondev.bsky.social)
 
 - 📫 You can reach me on [Discord](https://discord.gg/bkDyrFwqq8) `@pistonmaster`
 
-- ⚡ Fun fact **I love minecraft 💖**
+- ⚡ Fun fact **I love Minecraft 💖**
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexprogrammerde&layout=compact&theme=dark"></p>
                          
